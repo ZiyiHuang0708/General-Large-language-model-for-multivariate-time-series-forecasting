@@ -1,4 +1,3 @@
 # General Large language model for multivariate time series forecasting
-This compilation focuses on Foundation Models &amp; Large language model for time-series forecasting and provides related mainstream approach. Currently, we've collected papers from venues such as KDD, ICML, NeurIPS, ICLR, AAAI, WWW, ICDE, IJCAI, IEEE and more, with ongoing efforts to expand our repository.
 
-在这里
+本知识库聚焦于时序预测领域的基础模型与大型语言模型，并提供相关主流方法与时序预测的发展历程。
