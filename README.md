@@ -2,7 +2,6 @@
 
 时间序列预测的演化史与前沿
 
-</details>
 
 <details><summary><h2 style="display: inline;"> 传统统计方法 </h2></summary>
 
@@ -24,8 +23,6 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 </details>
 
-
-</details>
 
 <details><summary><h2 style="display: inline;"> 循环神经网络（RNN）</h2></summary>
 
