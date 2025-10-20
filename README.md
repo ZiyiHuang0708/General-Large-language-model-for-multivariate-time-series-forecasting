@@ -51,6 +51,22 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 </details>
 
+<details><summary><h2 style="display: inline;"> 前馈神经网络模型（MLP） </h2></summary>
+
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时序插值与修复任务（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
 <details><summary><h2 style="display: inline;"> 状态空间模型（SSM） </h2></summary>
 
 预测与分类任务（Forecasting or Classification）
@@ -83,7 +99,23 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 </details>
 
-<details><summary><h2 style="display: inline;"> 表示学习（RL） </h2></summary>
+<details><summary><h2 style="display: inline;"> 表示学习模型（RL） </h2></summary>
+
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时序插值与修复任务（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
+<details><summary><h2 style="display: inline;"> 生成模型（GM） </h2></summary>
 
 预测与分类任务（Forecasting or Classification）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
@@ -116,6 +148,22 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 </details>
 
 <details><summary><h2 style="display: inline;"> 大语言模型（LLM） </h2></summary>
+
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时序插值与修复任务（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
+<details><summary><h2 style="display: inline;"> 时空数据挖掘模型（STF） </h2></summary>
 
 预测与分类任务（Forecasting or Classification）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
