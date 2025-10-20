@@ -13,11 +13,7 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
-数据插补与修复（Imputation/Recovery）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时空数据挖掘（Spatio-Temporal Forecasting）
+时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
@@ -33,11 +29,7 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
-数据插补与修复（Imputation/Recovery）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时空数据挖掘（Spatio-Temporal Forecasting）
+时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
@@ -53,11 +45,7 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
-数据插补与修复（Imputation/Recovery）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时空数据挖掘（Spatio-Temporal Forecasting）
+时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
@@ -73,18 +61,75 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
-数据插补与修复（Imputation/Recovery）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时空数据挖掘（Spatio-Temporal Forecasting）
+时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
 </details>
 
+<details><summary><h2 style="display: inline;"> Transformer 模型 </h2></summary>
 
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
 
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时序插值与修复任务（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
+<details><summary><h2 style="display: inline;"> 表示学习（RL） </h2></summary>
+
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时序插值与修复任务（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
+<details><summary><h2 style="display: inline;"> 基础模型（FM） </h2></summary>
+
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时序插值与修复任务（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
+<details><summary><h2 style="display: inline;"> 大语言模型（LLM） </h2></summary>
+
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时序插值与修复任务（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
 
 时间序列预测的演化史与前沿综述及参考文献：
 
