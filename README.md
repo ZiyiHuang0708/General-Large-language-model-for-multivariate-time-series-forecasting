@@ -9,9 +9,13 @@
 
 <details><summary><h2 style="display: inline;">RNN.</h2></summary>
 
+预测与分类（Forecasting or Classification）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
+
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
 
 </details>
 
