@@ -3,7 +3,7 @@
 时间序列预测的演化史与前沿
 
 
-<details><summary><h2 style="display: inline;"> 传统统计方法 </h2></summary>
+<details><summary><h2 style="display: inline;"> 传统统计模型 </h2></summary>
 
 预测与分类任务（Forecasting or Classification）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
@@ -23,7 +23,7 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 </details>
 
-<details><summary><h2 style="display: inline;"> 循环神经网络（RNN）</h2></summary>
+<details><summary><h2 style="display: inline;"> 循环神经网络模型（RNN）</h2></summary>
 
 预测与分类任务（Forecasting or Classification）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
@@ -43,7 +43,7 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 </details>
 
-<details><summary><h2 style="display: inline;"> 卷积神经网络（CNN/TCN） </h2></summary>
+<details><summary><h2 style="display: inline;"> 卷积神经网络模型（CNN/TCN） </h2></summary>
 
 预测与分类任务（Forecasting or Classification）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
