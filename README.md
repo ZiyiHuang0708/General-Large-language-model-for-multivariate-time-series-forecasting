@@ -163,7 +163,7 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
-01-24|[AnomalyLLM](https://arxiv.org/pdf/2401.15123) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red)异常检测|IJCAI 2024|Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection|None
+|01-24|[AnomalyLLM](https://arxiv.org/pdf/2401.15123) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red)异常检测|IJCAI 2024|Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection|None|
 
 时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
