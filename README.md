@@ -23,7 +23,6 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 </details>
 
-
 <details><summary><h2 style="display: inline;"> 循环神经网络（RNN）</h2></summary>
 
 预测与分类任务（Forecasting or Classification）
@@ -44,9 +43,45 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 </details>
 
+<details><summary><h2 style="display: inline;"> 卷积神经网络（CNN/TCN） </h2></summary>
 
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
 
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
 
+数据插补与修复（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时空数据挖掘（Spatio-Temporal Forecasting）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
+<details><summary><h2 style="display: inline;"> 状态空间模型（SSM） </h2></summary>
+
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+数据插补与修复（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时空数据挖掘（Spatio-Temporal Forecasting）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
 
 
 
