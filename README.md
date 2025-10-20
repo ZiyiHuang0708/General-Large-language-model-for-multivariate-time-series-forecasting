@@ -1,4 +1,4 @@
-# General Large language model for multivariate time series forecasting
+# General model & Large language model for time series forecasting
 
 ## 时间序列预测的演化史与前沿
 时间序列预测在金融市场、交通运输、医疗健康、气象能源等诸多领域具有基础性的作用。例如，通过分析过去的时间序列数据，可以预测股票价格走势、电力负荷需求、患者病情发展或天气变化趋势。长期以来，研究者们提出了多种方法来提高时间序列预测的准确性。从传统的统计建模方法，到基于神经网络的深度学习模型，再到近年来兴起的基础模型（Foundation Models）和大规模预训练模型，时间序列预测技术经历了数次范式演进。本知识库将系统梳理时间序列预测方法针对不同任务从传统统计模型到第一代神经网络、深度学习框架，再到最新的基础大模型和时序大语言模型（Time-Series LLMs）的演变历程，并提供当前研究的两个热点方向：时空数据挖掘专题与多模态专题。目前我们已收集来自KDD、ICML、NeurIPS、ICLR、CVPR、AAAI、WWW、ICDE、IJCAI、IEEE等会议的论文，并持续扩充收录范围。
