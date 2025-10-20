@@ -5,6 +5,7 @@
 
 
 <details><summary><h2 style="display: inline;"> 传统统计模型 </h2></summary>
+传统统计模型主要依赖于统计模型和信号处理方法。这类方法注重利用时间序列的统计规律和结构特点，通过捕捉序列的自相关和季节周期性模式，能够在许多单变量或多变量预测场景下取得稳健的结果。典型的方法包括：季节-趋势分解（将序列分解为趋势、季节和残差成分）、滑动平均和指数平滑（如霍尔特-温特斯三重指数平滑）用于平滑和短期预测、以及各种自回归模型，例如VAR（向量自回归模型），ARIMA（自回归积分滑动平均模型）及其扩展形式SARIMA（季节性ARIMA）等。
 
 预测与分类任务（Forecasting or Classification）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
