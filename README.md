@@ -1,3 +1,15 @@
 # General Large language model for multivariate time series forecasting
 
-本知识库聚焦于时间序列预测的发展历史，包括时序预测领域的基础模型与大型语言模型(LLM)，并提供相关主流方法。
+Review：
+A Survey of Deep Learning and Foundation Models for Time Series Forecasting (https://doi.org/10.1145/nnnnnnn.nnnnnnn)
+Foundation Models for Time Series Analysis:A Tutorial and Survey (https://doi.org/10.1145/3637528.3671451)
+Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook(https://arxiv.org/abs/2310.10196)
+Time-Series Large Language Models:A Systematic Review of State-of-the-Art(https://ieeexplore.ieee.org/iel8/6287639/6514899/10856008.pdf)
+
+
+
+
+
+
+
+
