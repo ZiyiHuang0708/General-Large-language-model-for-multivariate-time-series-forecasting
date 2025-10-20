@@ -15,5 +15,13 @@ Time-Series Large Language Models:A Systematic Review of State-of-the-Art[[link]
 
 
 
+</details>
 
+<details><summary><h2 style="display: inline;">RNN.</h2></summary>
+
+Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----|-----
+17-03-21|[LSTNet](https://arxiv.org/abs/1703.07015)🌟🔥 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |SIGIR 2018|[Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](https://zhuanlan.zhihu.com/p/467944750)|[LSTNet](https://github.com/laiguokun/LSTNet) |
+
+</details>
 
