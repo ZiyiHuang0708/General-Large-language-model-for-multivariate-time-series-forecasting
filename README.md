@@ -163,7 +163,23 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 </details>
 
-<details><summary><h2 style="display: inline;"> 时空数据挖掘模型（STF） </h2></summary>
+<details><summary><h2 style="display: inline;"> 时空数据挖掘专题（STF） </h2></summary>
+
+预测与分类任务（Forecasting or Classification）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+异常检测任务（Anomaly Detection）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+时序插值与修复任务（Imputation/Recovery）
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
+<details><summary><h2 style="display: inline;"> 多模态专题（Multi-Modal） </h2></summary>
 
 预测与分类任务（Forecasting or Classification）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
