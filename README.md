@@ -166,8 +166,7 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 </details>
 
 <details><summary><h2 style="display: inline;"> 时空数据挖掘专题（STF） </h2></summary>
-现实世界的许多时间序列数据带有空间或拓扑结构信息，例如交通流量数据依赖于道路网络拓扑、疫情数据涉及地区之间的传播关系、气象数据有地理空间相关性等。这催生了时空数据挖掘领域的方法研究，即同时建模时间和空间两个维度的依赖关系。图神经网络（GNN）作为近年兴起的处理图结构数据的深度学习模型，被广泛应用于时空预测问题。通过构造节点表示时序变量、边表示变量间关系的时空图，可以将时间序列预测转化为图上的信号演进建模。GNN善于刻画空间上的相关性（如邻近区域流量的关联），而时间维度的依赖则常通过与RNN、CNN或Transformer等时间模型相结合来处理。典型的主流方法包括：DCRNN、Graph WaveNet等。
-
+  
 预测与分类任务（Forecasting or Classification）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
