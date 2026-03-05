@@ -1,7 +1,5 @@
 # General model & Large language model for time series forecasting
 
-## 时间序列预测的演化史与前沿
-
 <details><summary><h2 style="display: inline;"> 传统统计模型 </h2></summary>
 
 预测与分类任务（Forecasting or Classification）
