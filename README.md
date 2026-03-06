@@ -84,12 +84,22 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 </details>
 
+
 <details><summary><h2 style="display: inline;"> 多模态专题（Multi-Modal） </h2></summary>
 
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
 </details>
+
+
+<details><summary><h2 style="display: inline;"> 时序智能体 </h2></summary>
+
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
 
 时间序列预测的演化史与前沿综述及参考文献：
 
