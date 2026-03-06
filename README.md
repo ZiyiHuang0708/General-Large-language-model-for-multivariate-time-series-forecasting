@@ -46,7 +46,7 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 20-12-14|[Informer](https://arxiv.org/abs/2012.07436)| Prediction and Classification |AAAI 2021|[Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://zhuanlan.zhihu.com/p/467523291)|[Informer](https://github.com/zhouhaoyi/Informer2020)
 21-06-24|[Autoformer](https://arxiv.org/abs/2106.13008)| Prediction and Classification, Imputation |NIPS 2021|[Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://zhuanlan.zhihu.com/p/385066440)|[Autoformer](https://github.com/thuml/Autoformer)
 22-01-30|[FEDformer](https://arxiv.org/abs/2201.12740)| Prediction and Classification |ICML 2022|[FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/528131016)|[FEDformer](https://github.com/MAZiqing/FEDformer)
-23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://zhuanlan.zhihu.com/p/662250788) | [iTransformer](https://github.com/thuml/iTransformer)
+23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625) | Prediction and Classification | ICLR 2024 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://zhuanlan.zhihu.com/p/662250788) | [iTransformer](https://github.com/thuml/iTransformer)
 
 
 
