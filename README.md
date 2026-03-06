@@ -71,10 +71,13 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
-| 11-23 | FPT | Anomaly Detection, Prediction and Classification, Imputation | NeurIPS 2023 | One Fits All: Power General Time Series Analysis by Pretrained LM
-通过 Frozen Pretrained Transformer (FPT) 框架，证明了预训练的 GPT-2 可以在几乎不调整权重的情况下，同时在异常检测、预测、分类和补全任务上达到 SOTA。 | None |
+| 11-23 | FPT | Anomaly Detection, Prediction and Classification, Imputation | NeurIPS 2023 | One Fits All: Power General Time Series Analysis by Pretrained LM | None |
+| 05-24 | Time-LLM | Prediction and Classification | ICLR 2024 | Time-LLM: Time Series Forecasting by Reprogramming Large Language Models | None |
+| 05-24 | UniTime | Prediction and Classification | WWW 2024 | UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Analysis | None |
+| 07-24 | Chronos | Prediction and Classification | ICML 2024 | Chronos: Learning the Language of Time Series | None |
 | 01-24 | [AnomalyLLM](https://arxiv.org/pdf/2401.15123) | Anomaly Detection |IJCAI 2024|Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection| None |
 | 03-25 | [DADA](https://arxiv.org/abs/2405.15273) | Anomaly Detection |ICLR 2025|Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders| None |
+| 05-25 | VLM4TS | Anomaly Detection | ICLR 2025 | Can LLMs Understand Time Series Anomalies? | None |
 
 </details>
 
