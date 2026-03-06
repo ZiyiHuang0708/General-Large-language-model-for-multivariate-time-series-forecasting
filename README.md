@@ -2,79 +2,38 @@
 
 <details><summary><h2 style="display: inline;"> 传统统计模型 </h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
 </details>
+
 
 <details><summary><h2 style="display: inline;"> 前馈神经网络模型（MLP） </h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
 </details>
+
 
 <details><summary><h2 style="display: inline;"> 循环神经网络模型（RNN）</h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
 </details>
+
 
 <details><summary><h2 style="display: inline;"> 卷积神经网络模型（CNN/TCN） </h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
 </details>
 
+
 <details><summary><h2 style="display: inline;"> 状态空间模型（SSM） </h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
@@ -82,15 +41,6 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 <details><summary><h2 style="display: inline;"> Transformer 模型 </h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
@@ -98,15 +48,6 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 <details><summary><h2 style="display: inline;"> 表示学习模型（RL） </h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
@@ -114,15 +55,6 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 <details><summary><h2 style="display: inline;"> 生成模型（GM） </h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
@@ -130,15 +62,6 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 <details><summary><h2 style="display: inline;"> 神经微分方程(Neural ODE) & 流匹配 </h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
@@ -146,33 +69,16 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 <details><summary><h2 style="display: inline;"> 基础模型（FMs）& 大语言模型（LLM） </h2></summary>
 
-预测与分类任务（Forecasting or Classification
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-| 01-24 | [AnomalyLLM](https://arxiv.org/pdf/2401.15123) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |IJCAI 2024|Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection| None |
-| 03-25 | [DADA](https://arxiv.org/abs/2405.15273) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |ICLR 2025|Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders| None |
-
-时序插值与修复任务（Imputation/Recovery）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
+| 01-24 | [AnomalyLLM](https://arxiv.org/pdf/2401.15123) | Anomaly Detection |IJCAI 2024|Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection| None |
+| 03-25 | [DADA](https://arxiv.org/abs/2405.15273) | Anomaly Detection |ICLR 2025|Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders| None |
 
 </details>
 
+
 <details><summary><h2 style="display: inline;"> 时空数据挖掘专题（STF） </h2></summary>
   
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
@@ -180,15 +86,6 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 <details><summary><h2 style="display: inline;"> 多模态专题（Multi-Modal） </h2></summary>
 
-预测与分类任务（Forecasting or Classification）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-异常检测任务（Anomaly Detection）
-Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
------|----|-----|-----|-----|-----
-
-时序插值与修复任务（Imputation/Recovery）
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 
