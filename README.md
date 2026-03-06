@@ -30,6 +30,8 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
+| 22-09-22 | [TimesNet](https://arxiv.org/abs/2210.02186) | Anomaly Detection, Prediction and Classification, Imputation | ICLR 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://zhuanlan.zhihu.com/p/604100426) | [TimesNet](https://github.com/thuml/TimesNet)          |
+
 
 </details>
 
