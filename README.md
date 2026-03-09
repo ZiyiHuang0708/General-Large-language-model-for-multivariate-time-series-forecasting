@@ -122,6 +122,14 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 </details>
 
 
+<details><summary><h2 style="display: inline;"> 因果建模（Causal） </h2></summary>
+
+Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
+-----|----|-----|-----|-----|-----
+
+</details>
+
+
 时间序列预测的演化史与前沿综述及参考文献：
 
 A Survey of Deep Learning and Foundation Models for Time Series Forecasting [[link](https://doi.org/10.1145/nnnnnnn.nnnnnnn)]
