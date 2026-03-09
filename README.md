@@ -45,11 +45,16 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 
 <details><summary><h2 style="display: inline;"> Transformer 模型 </h2></summary>
 
+如何将序列模型应用到时序数据中: 在这个初期阶段，大家都在试图解决如何将经典的序列模型结构比如Transformer结合进时序建模这一特定任务中。这一阶段的代表性工作有：Informer、Autoformer、FEDformer、Non-stationary Transformer等。
+
+如何完成时序的令牌化（Tokenization）: 在第一阶段的时候，大家输入时序模型的还是离散的点，但是其实从深度学习Token构建角度来说，单个时刻的信息量还是太少了，所以需要将表征增强到成Patch，这样后续的建模会更加可靠，这一阶段的代表性工作有：PatchTST、Crossformer、iTransformer等。
+
 Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 -----|----|-----|-----|-----|-----
 20-12-14|[Informer](https://arxiv.org/abs/2012.07436)| Prediction and Classification |AAAI 2021|[Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://zhuanlan.zhihu.com/p/467523291)|[Informer](https://github.com/zhouhaoyi/Informer2020)
 21-06-24|[Autoformer](https://arxiv.org/abs/2106.13008)| Prediction and Classification, Imputation |NIPS 2021|[Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://zhuanlan.zhihu.com/p/385066440)|[Autoformer](https://github.com/thuml/Autoformer)
 22-01-30|[FEDformer](https://arxiv.org/abs/2201.12740)| Prediction and Classification |ICML 2022|[FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/528131016)|[FEDformer](https://github.com/MAZiqing/FEDformer)
+22-09-22|[Crossformer](https://openreview.net/forum?id=vSVLM2j9eie) | Prediction and Classification |ICLR 2023|Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting|[Crossformer](https://github.com/Thinklab-SJTU/Crossformer)
 22-09-22|[PatchTST](https://arxiv.org/abs/2211.14730)| Prediction and Classification |ICLR 2023|[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://zhuanlan.zhihu.com/p/602332939)|[PatchTST](https://github.com/yuqinie98/patchtst)
 23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625) | Prediction and Classification | ICLR 2024 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://zhuanlan.zhihu.com/p/662250788) | [iTransformer](https://github.com/thuml/iTransformer)
 
