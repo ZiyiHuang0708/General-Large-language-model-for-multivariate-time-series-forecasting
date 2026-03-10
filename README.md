@@ -57,7 +57,7 @@ Date|Method|Type|Conference/Journal|Paper Title and Paper Interpretation|Code
 22-09-22|[Crossformer](https://openreview.net/forum?id=vSVLM2j9eie) | Prediction and Classification |ICLR 2023|[Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting](https://zhuanlan.zhihu.com/p/658653334)|[Crossformer](https://github.com/Thinklab-SJTU/Crossformer)
 22-09-22|[PatchTST](https://arxiv.org/abs/2211.14730)| Prediction and Classification |ICLR 2023|[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://zhuanlan.zhihu.com/p/602332939)|[PatchTST](https://github.com/yuqinie98/patchtst)
 23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625) | Prediction and Classification | ICLR 2024 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://zhuanlan.zhihu.com/p/662250788) | [iTransformer](https://github.com/thuml/iTransformer)
-24-02-29 | [TimeXer](https://arxiv.org/abs/2402.19072)| Prediction and Classification | NIPS 2024 | [TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://zhuanlan.zhihu.com/p/24532897406) | [TimeXer](https://github.com/thuml/TimeXer)
+24-02-29 | [TimeXer](https://arxiv.org/abs/2402.19072)| Prediction and Classification | NIPS 2024 | [TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables](https://zhuanlan.zhihu.com/p/684910509) | [TimeXer](https://github.com/thuml/TimeXer)
 
 
 </details>
